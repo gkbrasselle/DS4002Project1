@@ -6,10 +6,34 @@
 with the software.
 ○ The platform (e.g., Windows, Mac, or Linux) you used.
 
+### This project utilizes the Readability Python package, for which documentation can be accessed here: https://pypi.org/project/readability/
+### Add on packages: _______________
+### Platform used: _________________
+
+
 ## Section 2: A Map of your documentation.
 In this section, you should provide an outline or tree illustrating the
 hierarchy of folders and subfolders contained in your Project Folder,
 and listing the files stored in each folder or subfolder.
+
+### This repository is organized as follows:
+#### README.md file >> contains documentation for software, experiment replication instructions, and __________
+#### 
+│
+├── DATA/
+│   ├── 
+│   |__
+│
+├── OUTPUT/
+│   ├── 
+│   |__
+│
+├── SCRIPTS/
+│   ├── 
+│   |__
+|
+├── README.md
+└── LICENSE.md
 
 
 ## Section 3: Instructions for reproducing your results.
@@ -21,3 +45,8 @@ to reproduce your results without much difficulty. N.B. This section
 will be crucial for the CS1 assignment, where you'll be required to
 reproduce the results of other groups. Therefore, make sure to
 explain this section thoroughly.
+
+### Please follow these steps in order to replicate this project's experimental design:
+#### 1. Access the project dataset "Amazon Fine Food Reviews" via this link on the Kaggle website: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+#### 2. Using the code in the Project_1.ipynb file, import the required packages and import the code from Kaggle into the Colab workspace.
+#### 3. Using the code in the Project_1.ipynb file, store the food review data into a dataframe and clean the data by removing extraneous variables.
