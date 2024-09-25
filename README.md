@@ -1,10 +1,6 @@
 # DS4002Project1
 
 ## Section 1: Software and platform section
-○ The type(s) of software you used for the project.
-○ The names of any add-on packages that need to be installed
-with the software.
-○ The platform (e.g., Windows, Mac, or Linux) you used.
 
 ### This project utilizes the Readability Python package, for which documentation can be accessed here: https://pypi.org/project/readability/
 ### Software: Python
