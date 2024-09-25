@@ -19,14 +19,14 @@ and listing the files stored in each folder or subfolder.
 
 This repository is organized as follows:
 
-1. DATA/
-    -
-2. SCRIPTS/
-    -
-3. OUTPUT/
-    -
-4. README.md --> contains documentation for software, experiment replication instructions, and __________
-5. LICENSE.md
+1. DATA
+    - "Amazon Fine Food Reviews" dataset
+2. SCRIPTS
+    - 
+3. OUTPUT
+    - 
+3. LICENSE.md
+5. README.md
 
 
 ## Section 3: Instructions for reproducing your results.
