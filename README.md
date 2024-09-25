@@ -15,22 +15,18 @@ and listing the files stored in each folder or subfolder.
 
 ### This repository is organized as follows:
 #### README.md file >> contains documentation for software, experiment replication instructions, and __________
-#### 
-│
-├── DATA/
-│   ├── 
-│   |__
-│
-├── OUTPUT/
-│   ├── 
-│   |__
-│
-├── SCRIPTS/
-│   ├── 
-│   |__
-|
-├── README.md
-└── LICENSE.md
+
+
+This repository is organized as follows:
+
+1. DATA/
+    -
+2. SCRIPTS/
+    -
+3. OUTPUT/
+    -
+4. README.md --> contains documentation for software, experiment replication instructions, and __________
+5. LICENSE.md
 
 
 ## Section 3: Instructions for reproducing your results.
