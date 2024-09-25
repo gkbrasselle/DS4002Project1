@@ -14,8 +14,6 @@ and listing the files stored in each folder or subfolder.
 
 ### This repository is organized as follows:
 
-This repository is organized as follows:
-
 1. DATA
     - "Amazon Fine Food Reviews" dataset
 2. SCRIPTS
