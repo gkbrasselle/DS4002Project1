@@ -2,15 +2,9 @@
 
 ## Section 1: Software and platform section
 
-This project utilizes the Readability Python package, for which documentation can be accessed here: https://pypi.org/project/readability/
-Software: Python
-Platforms used: Mac and Windows
-
+This project was completed using Mac and Windows platforms. The coding language used was Python. The Readability Python package was used, for which documentation can be accessed here: https://pypi.org/project/readability/
 
 ## Section 2: A Map of your documentation.
-In this section, you should provide an outline or tree illustrating the
-hierarchy of folders and subfolders contained in your Project Folder,
-and listing the files stored in each folder or subfolder.
 
 ### This repository is organized as follows:
 
