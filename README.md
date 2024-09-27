@@ -2,7 +2,7 @@
 
 ## Section 1: Software and platform section
 
-This project was completed using Mac and Windows platforms. The coding language used was Python. The Readability Python package was used, for which documentation can be accessed here: https://pypi.org/project/readability/
+This project was completed using Mac and Windows platforms. The coding language used was Python and the coding environment was Google Colab. The Readability Python package was used, for which documentation can be accessed here: https://pypi.org/project/readability/
 
 ## Section 2: Map of Documentation
 
@@ -10,13 +10,15 @@ This project was completed using Mac and Windows platforms. The coding language 
 
 1. DATA
     - "Amazon Fine Food Reviews" dataset
-    - Instructions for accessing and importing the data
+    - DataInstructions --> steps for accessing and importing the data
 2. SCRIPTS
     - Project_1.ipynb --> a full script containing all of the code needed to reproduce results.
     - p1dataapendix.R --> a script containing the code used to produce EDA plots in the data appendix.
 3. OUTPUT
-    - 
-3. LICENSE.md
+    - Exploratory Data plots
+    - Single Linear Regression Analysis (Phase 1)
+    - Multiple Linear Regression Analysis (Phase 2)
+4. LICENSE.md
 5. README.md
 
 
