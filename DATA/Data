@@ -1,2 +1,24 @@
 The base data file, "Amazon Fine Food Reviews", is too large to upload on Github.
-The file is downloadable on the Kaggle website: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews.
+The file is able to be downloaded from the Kaggle website: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews.
+
+The data can be imported into the Project Notebook in a few different ways.
+
+Option 1 - Downloading the dataset and uploading it into Google Colab:
+- Go to the kaggle website for the dataset and click the "Download" button in the upper right-hand corner.
+- Download the files. It will compress all the associated files into a zip folder.
+- Locate the downloaded files and unzip the folder to locate the Reviews.csv file
+- In the Colab window, go to the file tab and click the option "Upload to session storage"
+- When prompted, select the "Reviews.csv" file and upload it.
+- After it loads, click the three dots next to the file name and select "copy path"
+- paste the file path into the read_csv command
+
+Option 2 (more complex) - Accessing the dataset directly from Colab without downloading the file:
+- The code cell labeled "Option 2" contains the code necessary to find the file on Kaggle and import it into Colab
+- The link in the code expires 5-7 days after it is generated, so if an error is thrown an new link must be generated
+
+To generate new code:
+- Navigate to the [Kaggle site]([url](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)) containing the raw dataset
+- Click the three dots in the upper right corner to create and save a new notebook
+- Go to the home page of the new notebook, click the three dots in the upper right corner and select "Open in Colab"
+- This will open a new window in Google Colab with the necessary code already generated.
+- You can then copy this cell into the project_1.ipynb file to replace the expired credentials
