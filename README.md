@@ -12,7 +12,8 @@ This project was completed using Mac and Windows platforms. The coding language 
     - "Amazon Fine Food Reviews" dataset
     - Instructions for accessing and importing the data
 2. SCRIPTS
-    - 
+    - Project_1.ipynb --> a full script containing all of the code needed to reproduce results.
+    - p1dataapendix.R --> a script containing the code used to produce EDA plots in the data appendix.
 3. OUTPUT
     - 
 3. LICENSE.md
