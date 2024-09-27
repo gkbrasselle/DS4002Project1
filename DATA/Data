@@ -15,10 +15,9 @@ Option 1 - Downloading the dataset and uploading it into Google Colab:
 Option 2 (more complex) - Accessing the dataset directly from Colab without downloading the file:
 - The code cell labeled "Option 2" contains the code necessary to find the file on Kaggle and import it into Colab
 - The link in the code expires 5-7 days after it is generated, so if an error is thrown an new link must be generated
-
-To generate new code:
-- Navigate to the [Kaggle site]([url](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)) containing the raw dataset
-- Click the three dots in the upper right corner to create and save a new notebook
-- Go to the home page of the new notebook, click the three dots in the upper right corner and select "Open in Colab"
-- This will open a new window in Google Colab with the necessary code already generated.
-- You can then copy this cell into the project_1.ipynb file to replace the expired credentials
+- To generate new code:
+  - Navigate to the [Kaggle site]([url](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)) containing the raw dataset
+  - Click the three dots in the upper right corner to create and save a new notebook
+  - Go to the home page of the new notebook, click the three dots in the upper right corner and select "Open in Colab"
+  - This will open a new window in Google Colab with the necessary code already generated.
+  - You can then copy this cell into the project_1.ipynb file to replace the expired credentials
