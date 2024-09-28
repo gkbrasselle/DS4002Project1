@@ -9,10 +9,9 @@ This project was completed using Mac and Windows platforms. The coding language 
 ### This repository is organized as follows:
 
 1. DATA
-    - "Amazon Fine Food Reviews" dataset
-    - DataInstructions --> steps for accessing and importing the data
+    - DataInstructions --> steps for accessing and importing the "Amazon Fine Food Reviews" dataset.
 2. SCRIPTS
-    - Project_1.ipynb --> a full script containing all of the code needed to reproduce results.
+    - Script_1.ipynb --> a full script containing all of the code needed to reproduce results.
     - data_appendix_output.R --> a script containing the code used to produce EDA plots in the data appendix.
 3. OUTPUT
     - Exploratory Data plots
