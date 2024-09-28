@@ -15,9 +15,9 @@ This project was completed using Mac and Windows platforms. The coding language 
     - data_appendix_output.R --> a script containing the code used to produce EDA plots in the data appendix.
     - scratch folder --> contains outdated files that have been kept in case of future use
 3. OUTPUT
-    - Exploratory Data plots
-    - Single Linear Regression Analysis (Phase 1)
-    - Multiple Linear Regression Analysis (Phase 2)
+    - EDA Output.pdf --> Exploratory Data plots
+    - SLR (Phase 1) Output.pdf --> Single Linear Regression Analysis (Phase 1)
+    - MLR (Phase 2) Output.pdf --> Multiple Linear Regression Analysis (Phase 2)
 4. LICENSE.md
 5. README.md
 
