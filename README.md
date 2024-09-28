@@ -13,7 +13,7 @@ This project was completed using Mac and Windows platforms. The coding language 
     - DataInstructions --> steps for accessing and importing the data
 2. SCRIPTS
     - Project_1.ipynb --> a full script containing all of the code needed to reproduce results.
-    - p1dataapendix.R --> a script containing the code used to produce EDA plots in the data appendix.
+    - data_appendix_output.R --> a script containing the code used to produce EDA plots in the data appendix.
 3. OUTPUT
     - Exploratory Data plots
     - Single Linear Regression Analysis (Phase 1)
