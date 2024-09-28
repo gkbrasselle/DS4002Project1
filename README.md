@@ -30,3 +30,8 @@ This project was completed using Mac and Windows platforms. The coding language 
 1. Open the Project_1.ipynb file (located in the SCRIPTS folder) using the "Open in Colab" button at the top of the file
 2. Following the Instructions File in the DATA folder, import the data into the Colab workspace
 3. After the data has been successfully imported, run each code cell in the project file. The first section will clean the data, the next will generate readability scores, and the last few will perform singular/multiple Linear Regression to analyze correlation
+
+
+## References
+[1] 	“Readability,” PyPI, https://pypi.org/project/readability/ (accessed Sep. 13, 2024). 
+[2]     S. N. A. Project, “Amazon Fine Food Reviews,” Kaggle, https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews (accessed Sep. 13, 2024).
